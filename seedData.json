@@ -1,0 +1,646 @@
+{
+  "subjects": [
+    {
+      "id": "mathematics",
+      "title": "Mathematics",
+      "lessons": [
+        {
+          "title": "Mathematics Lesson 1",
+          "content": "Introduction to Mathematics",
+          "image": "assets/mathematics.jpg"
+        },
+        {
+          "title": "Mathematics Lesson 2",
+          "content": "Intermediate concepts in Mathematics",
+          "image": "assets/mathematics.jpg"
+        },
+        {
+          "title": "Mathematics Lesson 3",
+          "content": "Advanced Mathematics applications",
+          "image": "assets/mathematics.jpg"
+        }
+      ],
+      "image": "assets/mathematics.jpg"
+    },
+    {
+      "id": "science",
+      "title": "Science",
+      "lessons": [
+        {
+          "title": "Science Lesson 1",
+          "content": "Introduction to Science",
+          "image": "assets/science.jpg"
+        },
+        {
+          "title": "Science Lesson 2",
+          "content": "Intermediate concepts in Science",
+          "image": "assets/science.jpg"
+        },
+        {
+          "title": "Science Lesson 3",
+          "content": "Advanced Science applications",
+          "image": "assets/science.jpg"
+        }
+      ],
+      "image": "assets/science.jpg"
+    },
+    {
+      "id": "history",
+      "title": "Ghanaian History",
+      "lessons": [
+        {
+          "title": "Ghanaian History Lesson 1",
+          "content": "Introduction to Ghanaian History",
+          "image": "assets/history.jpg"
+        },
+        {
+          "title": "Ghanaian History Lesson 2",
+          "content": "Intermediate concepts in Ghanaian History",
+          "image": "assets/history.jpg"
+        },
+        {
+          "title": "Ghanaian History Lesson 3",
+          "content": "Advanced Ghanaian History applications",
+          "image": "assets/history.jpg"
+        }
+      ],
+      "image": "assets/history.jpg"
+    },
+    {
+      "id": "english",
+      "title": "English",
+      "lessons": [
+        {
+          "title": "English Lesson 1",
+          "content": "Introduction to English",
+          "image": "assets/english.jpg"
+        },
+        {
+          "title": "English Lesson 2",
+          "content": "Intermediate concepts in English",
+          "image": "assets/english.jpg"
+        },
+        {
+          "title": "English Lesson 3",
+          "content": "Advanced English applications",
+          "image": "assets/english.jpg"
+        }
+      ],
+      "image": "assets/english.jpg"
+    },
+    {
+      "id": "careertech",
+      "title": "Career Technology",
+      "lessons": [
+        {
+          "title": "Career Technology Lesson 1",
+          "content": "Introduction to Career Technology",
+          "image": "assets/careertech.jpg"
+        },
+        {
+          "title": "Career Technology Lesson 2",
+          "content": "Intermediate concepts in Career Technology",
+          "image": "assets/careertech.jpg"
+        },
+        {
+          "title": "Career Technology Lesson 3",
+          "content": "Advanced Career Technology applications",
+          "image": "assets/careertech.jpg"
+        }
+      ],
+      "image": "assets/careertech.jpg"
+    }
+  ],
+  "quizzes": [
+    {
+      "subjectId": "mathematics",
+      "title": "Mathematics Quiz",
+      "questions": [
+        {
+          "question": "Sample Mathematics question 1?",
+          "options": [
+            "Option A1",
+            "Option B1",
+            "Option C1",
+            "Option D1"
+          ],
+          "answer": "Option A1"
+        },
+        {
+          "question": "Sample Mathematics question 2?",
+          "options": [
+            "Option A2",
+            "Option B2",
+            "Option C2",
+            "Option D2"
+          ],
+          "answer": "Option A2"
+        },
+        {
+          "question": "Sample Mathematics question 3?",
+          "options": [
+            "Option A3",
+            "Option B3",
+            "Option C3",
+            "Option D3"
+          ],
+          "answer": "Option A3"
+        },
+        {
+          "question": "Sample Mathematics question 4?",
+          "options": [
+            "Option A4",
+            "Option B4",
+            "Option C4",
+            "Option D4"
+          ],
+          "answer": "Option A4"
+        },
+        {
+          "question": "Sample Mathematics question 5?",
+          "options": [
+            "Option A5",
+            "Option B5",
+            "Option C5",
+            "Option D5"
+          ],
+          "answer": "Option A5"
+        },
+        {
+          "question": "Sample Mathematics question 6?",
+          "options": [
+            "Option A6",
+            "Option B6",
+            "Option C6",
+            "Option D6"
+          ],
+          "answer": "Option A6"
+        },
+        {
+          "question": "Sample Mathematics question 7?",
+          "options": [
+            "Option A7",
+            "Option B7",
+            "Option C7",
+            "Option D7"
+          ],
+          "answer": "Option A7"
+        },
+        {
+          "question": "Sample Mathematics question 8?",
+          "options": [
+            "Option A8",
+            "Option B8",
+            "Option C8",
+            "Option D8"
+          ],
+          "answer": "Option A8"
+        },
+        {
+          "question": "Sample Mathematics question 9?",
+          "options": [
+            "Option A9",
+            "Option B9",
+            "Option C9",
+            "Option D9"
+          ],
+          "answer": "Option A9"
+        },
+        {
+          "question": "Sample Mathematics question 10?",
+          "options": [
+            "Option A10",
+            "Option B10",
+            "Option C10",
+            "Option D10"
+          ],
+          "answer": "Option A10"
+        }
+      ]
+    },
+    {
+      "subjectId": "science",
+      "title": "Science Quiz",
+      "questions": [
+        {
+          "question": "Sample Science question 1?",
+          "options": [
+            "Option A1",
+            "Option B1",
+            "Option C1",
+            "Option D1"
+          ],
+          "answer": "Option A1"
+        },
+        {
+          "question": "Sample Science question 2?",
+          "options": [
+            "Option A2",
+            "Option B2",
+            "Option C2",
+            "Option D2"
+          ],
+          "answer": "Option A2"
+        },
+        {
+          "question": "Sample Science question 3?",
+          "options": [
+            "Option A3",
+            "Option B3",
+            "Option C3",
+            "Option D3"
+          ],
+          "answer": "Option A3"
+        },
+        {
+          "question": "Sample Science question 4?",
+          "options": [
+            "Option A4",
+            "Option B4",
+            "Option C4",
+            "Option D4"
+          ],
+          "answer": "Option A4"
+        },
+        {
+          "question": "Sample Science question 5?",
+          "options": [
+            "Option A5",
+            "Option B5",
+            "Option C5",
+            "Option D5"
+          ],
+          "answer": "Option A5"
+        },
+        {
+          "question": "Sample Science question 6?",
+          "options": [
+            "Option A6",
+            "Option B6",
+            "Option C6",
+            "Option D6"
+          ],
+          "answer": "Option A6"
+        },
+        {
+          "question": "Sample Science question 7?",
+          "options": [
+            "Option A7",
+            "Option B7",
+            "Option C7",
+            "Option D7"
+          ],
+          "answer": "Option A7"
+        },
+        {
+          "question": "Sample Science question 8?",
+          "options": [
+            "Option A8",
+            "Option B8",
+            "Option C8",
+            "Option D8"
+          ],
+          "answer": "Option A8"
+        },
+        {
+          "question": "Sample Science question 9?",
+          "options": [
+            "Option A9",
+            "Option B9",
+            "Option C9",
+            "Option D9"
+          ],
+          "answer": "Option A9"
+        },
+        {
+          "question": "Sample Science question 10?",
+          "options": [
+            "Option A10",
+            "Option B10",
+            "Option C10",
+            "Option D10"
+          ],
+          "answer": "Option A10"
+        }
+      ]
+    },
+    {
+      "subjectId": "history",
+      "title": "Ghanaian History Quiz",
+      "questions": [
+        {
+          "question": "Sample Ghanaian History question 1?",
+          "options": [
+            "Option A1",
+            "Option B1",
+            "Option C1",
+            "Option D1"
+          ],
+          "answer": "Option A1"
+        },
+        {
+          "question": "Sample Ghanaian History question 2?",
+          "options": [
+            "Option A2",
+            "Option B2",
+            "Option C2",
+            "Option D2"
+          ],
+          "answer": "Option A2"
+        },
+        {
+          "question": "Sample Ghanaian History question 3?",
+          "options": [
+            "Option A3",
+            "Option B3",
+            "Option C3",
+            "Option D3"
+          ],
+          "answer": "Option A3"
+        },
+        {
+          "question": "Sample Ghanaian History question 4?",
+          "options": [
+            "Option A4",
+            "Option B4",
+            "Option C4",
+            "Option D4"
+          ],
+          "answer": "Option A4"
+        },
+        {
+          "question": "Sample Ghanaian History question 5?",
+          "options": [
+            "Option A5",
+            "Option B5",
+            "Option C5",
+            "Option D5"
+          ],
+          "answer": "Option A5"
+        },
+        {
+          "question": "Sample Ghanaian History question 6?",
+          "options": [
+            "Option A6",
+            "Option B6",
+            "Option C6",
+            "Option D6"
+          ],
+          "answer": "Option A6"
+        },
+        {
+          "question": "Sample Ghanaian History question 7?",
+          "options": [
+            "Option A7",
+            "Option B7",
+            "Option C7",
+            "Option D7"
+          ],
+          "answer": "Option A7"
+        },
+        {
+          "question": "Sample Ghanaian History question 8?",
+          "options": [
+            "Option A8",
+            "Option B8",
+            "Option C8",
+            "Option D8"
+          ],
+          "answer": "Option A8"
+        },
+        {
+          "question": "Sample Ghanaian History question 9?",
+          "options": [
+            "Option A9",
+            "Option B9",
+            "Option C9",
+            "Option D9"
+          ],
+          "answer": "Option A9"
+        },
+        {
+          "question": "Sample Ghanaian History question 10?",
+          "options": [
+            "Option A10",
+            "Option B10",
+            "Option C10",
+            "Option D10"
+          ],
+          "answer": "Option A10"
+        }
+      ]
+    },
+    {
+      "subjectId": "english",
+      "title": "English Quiz",
+      "questions": [
+        {
+          "question": "Sample English question 1?",
+          "options": [
+            "Option A1",
+            "Option B1",
+            "Option C1",
+            "Option D1"
+          ],
+          "answer": "Option A1"
+        },
+        {
+          "question": "Sample English question 2?",
+          "options": [
+            "Option A2",
+            "Option B2",
+            "Option C2",
+            "Option D2"
+          ],
+          "answer": "Option A2"
+        },
+        {
+          "question": "Sample English question 3?",
+          "options": [
+            "Option A3",
+            "Option B3",
+            "Option C3",
+            "Option D3"
+          ],
+          "answer": "Option A3"
+        },
+        {
+          "question": "Sample English question 4?",
+          "options": [
+            "Option A4",
+            "Option B4",
+            "Option C4",
+            "Option D4"
+          ],
+          "answer": "Option A4"
+        },
+        {
+          "question": "Sample English question 5?",
+          "options": [
+            "Option A5",
+            "Option B5",
+            "Option C5",
+            "Option D5"
+          ],
+          "answer": "Option A5"
+        },
+        {
+          "question": "Sample English question 6?",
+          "options": [
+            "Option A6",
+            "Option B6",
+            "Option C6",
+            "Option D6"
+          ],
+          "answer": "Option A6"
+        },
+        {
+          "question": "Sample English question 7?",
+          "options": [
+            "Option A7",
+            "Option B7",
+            "Option C7",
+            "Option D7"
+          ],
+          "answer": "Option A7"
+        },
+        {
+          "question": "Sample English question 8?",
+          "options": [
+            "Option A8",
+            "Option B8",
+            "Option C8",
+            "Option D8"
+          ],
+          "answer": "Option A8"
+        },
+        {
+          "question": "Sample English question 9?",
+          "options": [
+            "Option A9",
+            "Option B9",
+            "Option C9",
+            "Option D9"
+          ],
+          "answer": "Option A9"
+        },
+        {
+          "question": "Sample English question 10?",
+          "options": [
+            "Option A10",
+            "Option B10",
+            "Option C10",
+            "Option D10"
+          ],
+          "answer": "Option A10"
+        }
+      ]
+    },
+    {
+      "subjectId": "careertech",
+      "title": "Career Technology Quiz",
+      "questions": [
+        {
+          "question": "Sample Career Technology question 1?",
+          "options": [
+            "Option A1",
+            "Option B1",
+            "Option C1",
+            "Option D1"
+          ],
+          "answer": "Option A1"
+        },
+        {
+          "question": "Sample Career Technology question 2?",
+          "options": [
+            "Option A2",
+            "Option B2",
+            "Option C2",
+            "Option D2"
+          ],
+          "answer": "Option A2"
+        },
+        {
+          "question": "Sample Career Technology question 3?",
+          "options": [
+            "Option A3",
+            "Option B3",
+            "Option C3",
+            "Option D3"
+          ],
+          "answer": "Option A3"
+        },
+        {
+          "question": "Sample Career Technology question 4?",
+          "options": [
+            "Option A4",
+            "Option B4",
+            "Option C4",
+            "Option D4"
+          ],
+          "answer": "Option A4"
+        },
+        {
+          "question": "Sample Career Technology question 5?",
+          "options": [
+            "Option A5",
+            "Option B5",
+            "Option C5",
+            "Option D5"
+          ],
+          "answer": "Option A5"
+        },
+        {
+          "question": "Sample Career Technology question 6?",
+          "options": [
+            "Option A6",
+            "Option B6",
+            "Option C6",
+            "Option D6"
+          ],
+          "answer": "Option A6"
+        },
+        {
+          "question": "Sample Career Technology question 7?",
+          "options": [
+            "Option A7",
+            "Option B7",
+            "Option C7",
+            "Option D7"
+          ],
+          "answer": "Option A7"
+        },
+        {
+          "question": "Sample Career Technology question 8?",
+          "options": [
+            "Option A8",
+            "Option B8",
+            "Option C8",
+            "Option D8"
+          ],
+          "answer": "Option A8"
+        },
+        {
+          "question": "Sample Career Technology question 9?",
+          "options": [
+            "Option A9",
+            "Option B9",
+            "Option C9",
+            "Option D9"
+          ],
+          "answer": "Option A9"
+        },
+        {
+          "question": "Sample Career Technology question 10?",
+          "options": [
+            "Option A10",
+            "Option B10",
+            "Option C10",
+            "Option D10"
+          ],
+          "answer": "Option A10"
+        }
+      ]
+    }
+  ]
+}
